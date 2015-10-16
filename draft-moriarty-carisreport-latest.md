@@ -153,7 +153,7 @@ Better scaling attack response through improvements to the efficiency and effect
 2. Involving service providers and vendors to better coordinate and scale response is key.
 
 Information security practitioners are a scare resource.
-1. Training and education was discussed to improve this gap, both to train information security professionals and others in IT on basic network {{RFC2728}}and system hygiene. 
+1. Training and education was discussed to improve this gap, both to train information security professionals and others in IT on basic network and system hygiene. 
 2. Leveraging resources to better scale response, using fewer resources is critical.
 
 
@@ -168,7 +168,7 @@ The participants are interested in expanded information on the resources and ass
 Education and Guidance
 ----------------------
 
-Another reoccurring theme was the lack of knowledge by the community of basic security principles such as ingress and egress filtering explained in {{RFC2728}} BCP38.  The CSIRTS, operators, and vendors of attack mitigation tools found this particularly frustrating.  As a result, follow up activities may include determining if security guidance BCPs require updates or to determine whether there are opportunities to educate on these basic principles already documented by the IETF.
+Another reoccurring theme was the lack of knowledge by the community of basic security principles such as ingress and egress filtering explained in BCP38.  The CSIRTS, operators, and vendors of attack mitigation tools found this particularly frustrating.  As a result, follow up activities may include determining if security guidance BCPs require updates or to determine whether there are opportunities to educate on these basic principles already documented by the IETF.
 
 Transport Options
 -----------------
