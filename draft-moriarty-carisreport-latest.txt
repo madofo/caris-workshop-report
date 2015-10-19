@@ -4,8 +4,9 @@
 
 Network                                                      K. Moriarty
 Internet-Draft                                           EMC Corporation
-Intended status: Informational                          October 16, 2015
-Expires: April 18, 2016
+Intended status: Informational                                   M. Ford
+Expires: April 18, 2016                                 Internet Society
+                                                        October 16, 2015
 
 
  Coordinating Attack Response at Internet Scale (CARIS) Workshop Report
@@ -52,8 +53,7 @@ Copyright Notice
 
 
 
-
-Moriarty                 Expires April 18, 2016                 [Page 1]
+Moriarty & Ford          Expires April 18, 2016                 [Page 1]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -90,7 +90,7 @@ Table of Contents
      3.2.  Informative References  . . . . . . . . . . . . . . . . .  12
    Appendix A.  Acknowledgements . . . . . . . . . . . . . . . . . .  12
    Appendix B.  Workshop Attendees . . . . . . . . . . . . . . . . .  13
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  13
+   Authors' Addresses  . . . . . . . . . . . . . . . . . . . . . . .  13
 
 1.  Introduction
 
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Moriarty                 Expires April 18, 2016                 [Page 2]
+Moriarty & Ford          Expires April 18, 2016                 [Page 2]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -165,7 +165,7 @@ Internet-Draft                    CARIS                     October 2015
 
 
 
-Moriarty                 Expires April 18, 2016                 [Page 3]
+Moriarty & Ford          Expires April 18, 2016                 [Page 3]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -221,7 +221,7 @@ Internet-Draft                    CARIS                     October 2015
 
 
 
-Moriarty                 Expires April 18, 2016                 [Page 4]
+Moriarty & Ford          Expires April 18, 2016                 [Page 4]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -277,7 +277,7 @@ Internet-Draft                    CARIS                     October 2015
 
 
 
-Moriarty                 Expires April 18, 2016                 [Page 5]
+Moriarty & Ford          Expires April 18, 2016                 [Page 5]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -333,7 +333,7 @@ Internet-Draft                    CARIS                     October 2015
 
 
 
-Moriarty                 Expires April 18, 2016                 [Page 6]
+Moriarty & Ford          Expires April 18, 2016                 [Page 6]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -389,7 +389,7 @@ Internet-Draft                    CARIS                     October 2015
 
 
 
-Moriarty                 Expires April 18, 2016                 [Page 7]
+Moriarty & Ford          Expires April 18, 2016                 [Page 7]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -445,7 +445,7 @@ Internet-Draft                    CARIS                     October 2015
 
 
 
-Moriarty                 Expires April 18, 2016                 [Page 8]
+Moriarty & Ford          Expires April 18, 2016                 [Page 8]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -501,7 +501,7 @@ Internet-Draft                    CARIS                     October 2015
 
 
 
-Moriarty                 Expires April 18, 2016                 [Page 9]
+Moriarty & Ford          Expires April 18, 2016                 [Page 9]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -557,7 +557,7 @@ Internet-Draft                    CARIS                     October 2015
 
 
 
-Moriarty                 Expires April 18, 2016                [Page 10]
+Moriarty & Ford          Expires April 18, 2016                [Page 10]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -613,7 +613,7 @@ Internet-Draft                    CARIS                     October 2015
 
 
 
-Moriarty                 Expires April 18, 2016                [Page 11]
+Moriarty & Ford          Expires April 18, 2016                [Page 11]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -669,7 +669,7 @@ Appendix A.  Acknowledgements
 
 
 
-Moriarty                 Expires April 18, 2016                [Page 12]
+Moriarty & Ford          Expires April 18, 2016                [Page 12]
 
 Internet-Draft                    CARIS                     October 2015
 
@@ -701,7 +701,7 @@ Appendix B.  Workshop Attendees
    Hardie, Tobias Gondrom, Tom Millar, Tomas Sander, Ulrich
    Seldeslachts, Valerie Duncan, Wes Young
 
-Author's Address
+Authors' Addresses
 
    Kathleen M. Moriarty
    EMC Corporation
@@ -712,17 +712,17 @@ Author's Address
    Email: Kathleen.Moriarty@emc.com
 
 
+   Mat Ford
+   Internet Society
+   Galerie Jean-Malbuisson 15
+   Geneva
+   Switzerland
+
+   Email: ford@isoc.org
 
 
 
 
 
 
-
-
-
-
-
-
-
-Moriarty                 Expires April 18, 2016                [Page 13]
+Moriarty & Ford          Expires April 18, 2016                [Page 13]
