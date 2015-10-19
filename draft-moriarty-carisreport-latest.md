@@ -68,7 +68,7 @@ The first panel session on Coordination between CSIRTs and attack mitigation eff
   * Who participates?
 
 For each of the following organizations, additional information can be found in their template submissions:
-https://internetsociety2.wufoo.com/reports/caris-workshop-template-submissions/
+https://internetsociety2.wufoo.com/reports/caris-workshop-template-submissions/   
 
 The following summaries are to be read in context of the workshop and not as stand alone descriptions for each organization as these summaries are a result of the workshop discussions.
 
