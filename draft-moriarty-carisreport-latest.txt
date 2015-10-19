@@ -87,7 +87,7 @@ Table of Contents
    2.  Security Considerations . . . . . . . . . . . . . . . . . . .  10
    3.  References  . . . . . . . . . . . . . . . . . . . . . . . . .  10
      3.1.  Normative References  . . . . . . . . . . . . . . . . . .  10
-     3.2.  Informative References  . . . . . . . . . . . . . . . . .  10
+     3.2.  Informative References  . . . . . . . . . . . . . . . . .  11
    Appendix A.  Acknowledgements . . . . . . . . . . . . . . . . . .  11
    Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  11
 
@@ -184,8 +184,15 @@ Internet-Draft                    CARIS                     October 2015
    organizations attending to see if there were opportunities to
    collaborate and improve efficiency and better scale attack
    mitigation.  The panelists described their efforts with the following
-   questions in mind: * Describe your use case? * Where they are
-   focusing? * How can others engage with them? * Who participates?
+   questions in mind:
+
+   o  Describe your use case?
+
+   o  Where they are focusing?
+
+   o  How can others engage with them?
+
+   o  Who participates?
 
    For each of the following organizations, additional information can
    be found in their template submissions:
@@ -211,13 +218,6 @@ Internet-Draft                    CARIS                     October 2015
    through automation, exchanging actionable information between 500
    universities automatically implementing controls.  They leverage a
    small number of analysts to accomplish the task of protecting many
-   universities, understanding the scarcity of resources, since many
-   universities cannot respond in real-time without this automation.
-   The key to the success of their project is actualization with tools
-   that allow organizations to make use of data operationally.  They are
-   currently working to develop open-source tools to track metrics
-   formally.
-
 
 
 
@@ -225,6 +225,13 @@ Moriarty                 Expires April 18, 2016                 [Page 4]
 
 Internet-Draft                    CARIS                     October 2015
 
+
+   universities, understanding the scarcity of resources, since many
+   universities cannot respond in real-time without this automation.
+   The key to the success of their project is actualization with tools
+   that allow organizations to make use of data operationally.  They are
+   currently working to develop open-source tools to track metrics
+   formally.
 
    CERT.br is the Brazilian CERT and they have made impressive progress
    in a short amount of time.  CERT.br is the national focal point for
@@ -267,13 +274,6 @@ Internet-Draft                    CARIS                     October 2015
    attack information in some regions.  * Sharing alone doesn't help,
    must lead to operational ROI * Language barriers has been an issue
    for some national CSIRTs * Sharing too much information leads to
-   capacity and resource issues for receiving organizations.
-   Organizations directly receiving feeds often results in mis-
-   interpretation of the data and thinking they are under attack when it
-   is not the case.  Operational models preferred where there is an
-   impact from exchanges and efficiencies gained using a small number of
-   analysts to impact many.  * Privacy regulations restricting some from
-   sharing IP address information has had an impact on effectiveness of
 
 
 
@@ -282,6 +282,13 @@ Moriarty                 Expires April 18, 2016                 [Page 5]
 Internet-Draft                    CARIS                     October 2015
 
 
+   capacity and resource issues for receiving organizations.
+   Organizations directly receiving feeds often results in mis-
+   interpretation of the data and thinking they are under attack when it
+   is not the case.  Operational models preferred where there is an
+   impact from exchanges and efficiencies gained using a small number of
+   analysts to impact many.  * Privacy regulations restricting some from
+   sharing IP address information has had an impact on effectiveness of
    exchanges.  ENISA is currently running a study on this impact (raised
    by several attendees).  * Too many efforts are using data just for
    blocking attacks and not operational mitigation and elimination as
@@ -323,13 +330,6 @@ Internet-Draft                    CARIS                     October 2015
    OpSec community today, CRAG is one example.  * Filtering and triage
    is an issue, but this is a solvable problem.  * The IETF DOTS working
    group effort was discussed and compared to a previous effort, Real-
-   time Inter-network defense (RID) [RFC6545].  It was stated that the
-   two are similar, except DOTS makes use of current data formats and
-   protocols and has the support of multiple DDoS vendors.  One of the
-   goals of DOTS is to have this solution be the "glue" between vendors
-   to communicate shared data using standard formats and protocols
-   developed in open source tools.  * The IETF I2NSF effort was
-   discussed to see if there is a way to leverage infrastructure to
 
 
 
@@ -338,6 +338,13 @@ Moriarty                 Expires April 18, 2016                 [Page 6]
 Internet-Draft                    CARIS                     October 2015
 
 
+   time Inter-network defense (RID) [RFC6545].  It was stated that the
+   two are similar, except DOTS makes use of current data formats and
+   protocols and has the support of multiple DDoS vendors.  One of the
+   goals of DOTS is to have this solution be the "glue" between vendors
+   to communicate shared data using standard formats and protocols
+   developed in open source tools.  * The IETF I2NSF effort was
+   discussed to see if there is a way to leverage infrastructure to
    combat DDoS attacks.  * Vendors discussed existing capabilities for
    DDoS mitigation, while sharing exchange groups discussed their
    mitigation activities around Botnets (see paper submissions).  *
@@ -379,13 +386,6 @@ Internet-Draft                    CARIS                     October 2015
    training.  Data shared out by RIRs is anonymized.  * A concern was
    raised on overlapping efforts and a request was made for the IETF and
    ISOC to pay attention to this and help.  This workshop was one step
-   toward that in bringing together this diverse community.  The
-   participants wish to see this type of even repeated for future cross
-   area collaboration between the diverse set of groups that often only
-   meet within their silo.
-   * Standards for APIs to access data consistently from RIRs and
-   scoring methods were discussed as possible ways to scale trust.
-   Still questions were raised as to how this might be possible.  One
 
 
 
@@ -394,6 +394,13 @@ Moriarty                 Expires April 18, 2016                 [Page 7]
 Internet-Draft                    CARIS                     October 2015
 
 
+   toward that in bringing together this diverse community.  The
+   participants wish to see this type of even repeated for future cross
+   area collaboration between the diverse set of groups that often only
+   meet within their silo.
+   * Standards for APIs to access data consistently from RIRs and
+   scoring methods were discussed as possible ways to scale trust.
+   Still questions were raised as to how this might be possible.  One
    might receive unverifiable data about a network.  They may be able to
    verify the source's identity, verify route origins, but won't be able
    to verify provenance of data.
@@ -435,13 +442,6 @@ Internet-Draft                    CARIS                     October 2015
    found that people have different upper limits for trust group scale,
    which is sometimes based on individualized knowledge of other
    participants and having a comfort level with them.  Social
-   interaction (beer) is a common thread amongst sharing partners to
-   build trust relationships.  The relationships are formed between
-   individuals and not necessarily between organizations.  * It's rare
-   for any single piece of information to be clearly identifiable as
-   private or public.  Temptation is to say info isn't personally
-   identifiable information (PII).  In aggregate, however, non-PII can
-
 
 
 
@@ -450,6 +450,12 @@ Moriarty                 Expires April 18, 2016                 [Page 8]
 Internet-Draft                    CARIS                     October 2015
 
 
+   interaction (beer) is a common thread amongst sharing partners to
+   build trust relationships.  The relationships are formed between
+   individuals and not necessarily between organizations.  * It's rare
+   for any single piece of information to be clearly identifiable as
+   private or public.  Temptation is to say info isn't personally
+   identifiable information (PII).  In aggregate, however, non-PII can
    become PII.  * There was common agreement that reputation is
    fundamental.
 
@@ -492,12 +498,6 @@ Internet-Draft                    CARIS                     October 2015
    information exchange.  Real-time Inter-network Defense (RID) was
    written more than 10 years ago.  While the patterns established in
    RID still show promise, there are updated solutions being worked on.
-   One such solution is in the IETF DOTS working group, that has an
-   approach similar to RID with updated formats and protocols to meet
-   the demands of todays DDoS attacks.  While TAXII (another transport
-   option) is just in transition to OASIS, its base is similar to RID in
-   its use of SOAP-like messaging, which will likely prevent it from
-   scaling to the demands of the Internet.  Vendors also cited several
 
 
 
@@ -506,6 +506,12 @@ Moriarty                 Expires April 18, 2016                 [Page 9]
 Internet-Draft                    CARIS                     October 2015
 
 
+   One such solution is in the IETF DOTS working group, that has an
+   approach similar to RID with updated formats and protocols to meet
+   the demands of todays DDoS attacks.  While TAXII (another transport
+   option) is just in transition to OASIS, its base is similar to RID in
+   its use of SOAP-like messaging, which will likely prevent it from
+   scaling to the demands of the Internet.  Vendors also cited several
    interoperability challenges in TAXII in discussions.  Alternatively,
    XMPP-Grid has been proposed in the IETF SACM working group and it
    offers promise as the data exchange protocol.  XMPP inherently meets
@@ -549,18 +555,14 @@ Internet-Draft                    CARIS                     October 2015
               RFC2119, March 1997,
               <http://www.rfc-editor.org/info/rfc2119>.
 
-3.2.  Informative References
-
-
-
-
-
 
 
 Moriarty                 Expires April 18, 2016                [Page 10]
 
 Internet-Draft                    CARIS                     October 2015
 
+
+3.2.  Informative References
 
    [RFC2827]  Ferguson, P. and D. Senie, "Network Ingress Filtering:
               Defeating Denial of Service Attacks which employ IP Source
@@ -595,8 +597,6 @@ Author's Address
    United States
 
    Email: Kathleen.Moriarty@emc.com
-
-
 
 
 

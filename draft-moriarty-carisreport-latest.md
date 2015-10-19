@@ -60,6 +60,7 @@ Sessions and Panel Groups	{#panels}
 Coordination between CSIRTs and Attack Response Mitigation Efforts
 ------------------------------------------------------------------
 The first panel session on Coordination between CSIRTs and attack mitigation efforts included representatives from several organizations that submitted templates exchange/attack type mitigation efforts.  This panel was purposefully a cross section of organizations attending to see if there were opportunities to collaborate and improve efficiency and better scale attack mitigation.  The panelists described their efforts with the following questions in mind:
+
   * Describe your use case?
   * Where they are focusing?
   * How can others engage with them?
