@@ -59,6 +59,7 @@ Sessions and Panel Groups	{#panels}
 
 Coordination between CSIRTs and Attack Response Mitigation Efforts
 ------------------------------------------------------------------
+
 The first panel session on Coordination between CSIRTs and attack mitigation efforts included representatives from several organizations that submitted templates exchange/attack type mitigation efforts.  This panel was purposefully a cross section of organizations attending to see if there were opportunities to collaborate and improve efficiency and better scale attack mitigation.  The panelists described their efforts with the following questions in mind:
 
   * Describe your use case?
@@ -68,6 +69,7 @@ The first panel session on Coordination between CSIRTs and attack mitigation eff
 
 For each of the following organizations, additional information can be found in their template submissions:
 https://internetsociety2.wufoo.com/reports/caris-workshop-template-submissions/
+
 The following summaries are to be read in context of the workshop and not as stand alone descriptions for each organization as these summaries are a result of the workshop discussions.
 
 While ENISA provides support for the community in the form of education, training and collaboration on security and attack mitigation, it does not offer a service for attack response or mitigation.
@@ -83,6 +85,7 @@ MyCERT's mission is to address security concerns of Malaysian Internet users and
 CERT/CC has been operational work since 1998 on an international and national scale. They have long been known for their software vulnerability work and the national vulnerability database in the US (CVEs) and informing organizations of vulnerabilities.  CERT/CC helps to coordinate between vendors and researchers for improved collaborations.  CERT/CC assists with guidance on plans to deal with the aftermath, risk assessment practice, bug bounties, and other incident related areas. 
 
 Highlighted points from the panel discussion:
+
 * Passive survelliance has impacted incident response activities
 * Government involvement in exchange efforts hasn't been productive, lots of talk without useful exchanges
 * More interest in consuming feeds of information rather than sharing information
@@ -103,6 +106,7 @@ Scaling Response to DDoS and Botnets Effectively and Safely
 The introduction talk provided interesting history on Distributed Denial of Service (DDoS) attacks and the evolution of Botnets as well as methods to combat these threats.  The paper by Dave Dittrich is available to learn more on the history, this section of the report will focus on the workshop discussion in an effort to benefit from the discussions on how to better scale response to these threats.
 
 Key points from the discussion:
+
 * Of the attack types discussed, DDoS and Botnets appear to be the furthest along in terms of efficient and effective response.  Other effort can learn from these efforts.  There has not been any interaction between these two attack types that may benefit from information exchange tied to remediation activities since Botnets can be the source of DDoS attacks.
 * There is a disparity between short-term mitigation goals and actual eradication of DDoS and Botnet threats. The questions was raised: how do we normalize the same data in different ways to serve different goals? In other words, DDoS traffic is often the result of Botnets, but the data is not shared between the service providers and vendors responding to DDoS threats and those actively mitigating and eradicating Botnets.
 * There are ad-hoc trust groups within the OpSec community today, CRAG is one example.
@@ -118,9 +122,11 @@ Key points from the discussion:
 
 DNS & RIRs: Attack Response and Mitigation
 ------------------------------------------
+
 This session was a shift from other sessions in the day as the panelists were infrastructure providers for those combating attack response.  This session was of interest to see how attack and incident responders could better collaborate with DNS and RIRs.  These groups have not interacted in the past and it was interesting to see the collaboration opportunities since the workshop participants rely on these services to do their jobs.  From the panelists perspective, DNS and RIRs are separate worlds, where they spend a lot of time trying to educate policymakers and how they work together to make the Internet work.
 
 Key discussion points:
+
 * The use of passive DNS in attack mitigation was described and how it can be useful to organizations.
 * RIRs discussed the data they maintain and provide for those interested including worldwide BGP update data and root DNS server data.  These data sets are available to share with researchers and could be of interest to those working on attack response.  The current way the data is made available does not scale and ideas were discussed in the workshop to improve the scalability if this does become a tapped on resource.
 * Some of the global RIRs already actively coordinate with incident responders in their region.  In some cases they do facilitate information sharing as well as provide education and training.  Data shared out by RIRs is anonymized.
@@ -130,9 +136,11 @@ Key discussion points:
 
 Trust Privacy and Data Markings Panel
 -------------------------------------
+
 Why don't organizations share data? It seems to be a mix of privacy, legal, technical/mundane, cultural, and communication issues.  There are also concerns about sharing proprietary data with competitors. Having said that, most of these reasons are bogus according to operationally focused participants of the workshop. Lawyers need contextual education for the intersection of law and technology. Sensitive data is still an issue as one can't control what others do with data once it is shared.  They don't know what others might do with the data and who might receive it indirectly.
 
 Key points from the panel discussion:
+
 * Operationally focused groups do retain/rate/re-mark confidence levels based upon the submitter reputation.
 * The Traffic Light Protocol (TLP) was discussed.  While this is useful to some groups who exchange data, others find that it is not granular enough for their needs.
 * In many cases, data is shared, user never knows, and there is no way to manage that disclosure.
@@ -150,10 +158,12 @@ Workshop Themes	{#themes}
 ---------------
 
 Better scaling attack response through improvements to the efficiency and effectiveness of information exchanges. 
+
 1. Data exchanges should not be just for the purpose of creating blacklists that could be redundant efforts.
 2. Involving service providers and vendors to better coordinate and scale response is key.
 
 Information security practitioners are a scare resource.
+
 1. Training and education was discussed to improve this gap, both to train information security professionals and others in IT on basic network and system hygiene. 
 2. Leveraging resources to better scale response, using fewer resources is critical.
 
@@ -178,6 +188,7 @@ One of the lively discussions was the need for better transports for information
 
 Updated Template for Information Exchange Groups
 ------------------------------------------------
+
 One of the submission options was for organizations actively exchanging data to submit a template form describing their work to reduce attacks.  The CSIRTs, in particular, liked having access to this information in a neutral location like the Internet Society.  However, they would like to see changes to the form to ensure it's usefulness.  There was a desire to have this used by additional exchange groups, creating a living library to better understand how to become a member, benefit from, or contribute to the success of the attack response and CSIRT exchange platforms.
 
 Security Considerations
@@ -189,6 +200,7 @@ The CARIS workshop was focused on security and methods to improve the effectiven
 
 Acknowledgements
 ================
+
 Thank you to the members of the program committee (in alphabetical order) for your efforts to make this workshop possible and a productive session with cross area expertise.
 Matthew Ford, Internet Society, UK
 Ted Hardie, Google
@@ -199,6 +211,7 @@ Andrew Sullivan, Dyn
 Brian Trammell, ETH Zurich, Switzerland
 
 Thank you to the CARIS workshop sponsors!
+
   * FIRST provided a room and excellent facilities in partnership with their annual conference in Berlin.
   * The Internet Society hosted the social event, a boat ride through the canals of Berlin.
   * EMC Corporation provided lunch, snacks and coffee throughout the day to keep us going.
