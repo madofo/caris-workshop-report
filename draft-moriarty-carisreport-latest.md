@@ -215,3 +215,8 @@ Thank you to the CARIS workshop sponsors!
   * FIRST provided a room and excellent facilities in partnership with their annual conference in Berlin.
   * The Internet Society hosted the social event, a boat ride through the canals of Berlin.
   * EMC Corporation provided lunch, snacks and coffee throughout the day to keep us going.
+
+Workshop Attendees
+==================
+
+In alphabetical order by first name, workshop attendees were: Adli Wahid, Alexey Melnikov, Andrew Sullivan, Arnold Sykosch, Brian Trammell, Chris Morrow, Cristine Hoepers, Dario Forte, Dave Cridland, Dave Dittrich, Eliot Lear, Foy Shiver, Frank Xialiang, Graciella Martinez, Jessica Stienberger, Jim Duncan, Joe Hildebrand, John Bond, John Graham-Cummings, John Kristoff, Kathleen Moriarty, Klaus Steding-Jessen, Linda Dunbar, Marco Obiso, Martin Stiemerling, Mat Ford, Merike Kaeo, Michael Daly, Mio Suzuki, Mirjam Kuehne, Mr. Fu TianFu , Nancy Cam-Winget, Nik Teague, Pat Cain, Roland Dobbins, Roman Danyliw, Rosella Mattioli, Sandeep Bhatt , Scott Pinkerton, Sharifah Roziah Mohd Kassim, Stuart Murdoch, Takeshi Takahashi, Ted Hardie, Tobias Gondrom, Tom Millar, Tomas Sander, Ulrich Seldeslachts, Valerie Duncan, Wes Young
