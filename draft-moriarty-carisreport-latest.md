@@ -60,7 +60,7 @@ The workshop talks and panels involved full participation from attendees who wer
 The workshop was run under the Chatham House Rule as a result of the often sensitive information involved with incident response.  As such, there was no recording, but minutes were taken and used to aid in the generation of this report.  Comments will not be attributed to any particular attendee, nor will organizations be named in association with any discussion topics that were not made public through submission templates or papers by the submitter and organization.
 
 Sessions and Panel Groups	{#panels}
--------------------------
+=========================
 
 1. Stage Setting and Goals of the Workshop
 2. Coordination between CSIRTs and attack response mitigation efforts
@@ -163,7 +163,7 @@ Key points from the panel discussion:
 * There was common agreement that reputation is fundamental. 
 
 Workshop Themes	{#themes}
----------------
+===============
 
 Better scaling attack response through improvements to the efficiency and effectiveness of information exchanges. 
 
@@ -176,7 +176,7 @@ Information security practitioners are a scarce resource.
 2. Leveraging resources to better scale response, using fewer resources is critical.
 
 Next Steps	{#nextsteps}
-----------
+==========
 
 RIR and DNS Provider Resources
 ------------------------------

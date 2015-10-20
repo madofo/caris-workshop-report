@@ -10,7 +10,7 @@ Expires: April 18, 2016                                 Internet Society
 
 
  Coordinating Attack Response at Internet Scale (CARIS) Workshop Report
-                   draft-moriarty-carisreport-latest
+                   draft-moriarty-carisreport-01
 
 Abstract
 
